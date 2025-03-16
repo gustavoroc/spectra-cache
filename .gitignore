@@ -1,0 +1,13 @@
+# Rust specific ignores
+/target/
+
+# IDE files
+/.idea/
+/.vscode/
+/.vs/
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+Thumbs.db 
