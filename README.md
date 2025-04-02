@@ -1,4 +1,4 @@
-# SpectraCache: Distributed Specialized Cache System
+r# SpectraCache: Distributed Specialized Cache System
 
 ![Status](https://img.shields.io/badge/Status-In%20Development-yellow)
 ![Language](https://img.shields.io/badge/Language-Rust-orange)
